@@ -1,0 +1,31 @@
+# Python specific
+*.pyc
+__pycache__/
+venv/
+*.pyproj
+*.pidb
+*.sqlite
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+*.idea/
+*.code-workspace
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite3
